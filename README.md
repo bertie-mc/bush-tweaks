@@ -1,3 +1,6 @@
+> [!IMPORTANT]
+> Development has moved to [`bertie-mc/bertie`](https://github.com/bertie-mc/bertie/tree/main/mods/bush-tweaks). This repository is retained read-only for historical tags, releases, and issues.
+
 # Bush Tweaks
 
 A small mixin mod that makes *Berries & Cherries* bushes behave like vanilla sweet-berry bushes: crouch-safe, correct slowdown, and proper damage gating.
